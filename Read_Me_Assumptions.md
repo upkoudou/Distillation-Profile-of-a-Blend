@@ -9,6 +9,7 @@ We consider the following assumptions to be validated :
 - Indepent error : implies no correlations in the errors (residuals)
 - Homoscedasticity: the residuals accros the regression line are aquls
 
+
 1. Given any two crude oils with their given distillation profiles, create a model which will give an approximate distillation
 profile of the mixture of the two oils with specified volumes. [...]
 
