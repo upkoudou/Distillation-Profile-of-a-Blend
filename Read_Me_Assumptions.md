@@ -14,7 +14,7 @@ We consider the following assumptions to be validated :
 profile of the mixture of the two oils with specified volumes. [...]
 
 The selected model for this case is a simple linear model. Respectively follow the proprieties of:
-  {\displaystyle y=\beta _{0}+\beta _{1}x+\varepsilon ,\,}
+  <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ba2b6f48bb60ea6fe6865a81956146142fdac62a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:25.716ex; height:3.009ex;" alt="{\displaystyle y=\beta _{0}+\beta _{1}x+\beta _{2}x^{2}+\varepsilon .\,}">
 
 2.Collect data from Crude Monitor for a couple of real crudes, and cleaning recent data, run the distillation
 profiles through your program with volumes of your choosing.
