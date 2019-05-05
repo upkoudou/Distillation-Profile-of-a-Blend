@@ -23,4 +23,5 @@ profiles through your program with volumes of your choosing.
 
 we choosed to use a more complexe model to illustrate the non peferctly relationship between the two variables.
 Respectively the general polynomial model follows :
-   /b<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ba2b6f48bb60ea6fe6865a81956146142fdac62a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:25.716ex; height:3.009ex;" alt="{\displaystyle y=\beta _{0}+\beta _{1}x+\beta _{2}x^{2}+\varepsilon .\,}">
+
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ba2b6f48bb60ea6fe6865a81956146142fdac62a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:25.716ex; height:3.009ex;" alt="{\displaystyle y=\beta _{0}+\beta _{1}x+\beta _{2}x^{2}+\varepsilon .\,}">
