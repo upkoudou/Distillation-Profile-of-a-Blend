@@ -100,7 +100,7 @@ print(Vpercent)
 # In[ ]:
 
 
-*(model, Y, =, mx, +b, +, E)
+/*(model, Y, =, mx, +b, +, E)
 where:
     -Y is the response variable, the volume of temperature
     -mx is the slope,
