@@ -21,7 +21,9 @@ The selected model for this case is a simple linear model. Respectively follow t
 2.Collect data from Crude Monitor for a couple of real crudes, and cleaning recent data, run the distillation
 profiles through your program with volumes of your choosing.
 
-we choosed to use a more complexe model to illustrate the non peferctly relationship between the two variables.
+we choosed to use a more complexe model to illustrate the non peferctly linear relationship between the two variables.
 Respectively the general polynomial model follows :
 
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ba2b6f48bb60ea6fe6865a81956146142fdac62a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:25.716ex; height:3.009ex;" alt="{\displaystyle y=\beta _{0}+\beta _{1}x+\beta _{2}x^{2}+\varepsilon .\,}">
+
+The dataset used for this computation is Crude-file.csv.
