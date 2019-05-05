@@ -13,7 +13,12 @@ We consider the following assumptions to be validated :
 1. Given any two crude oils with their given distillation profiles, create a model which will give an approximate distillation
 profile of the mixture of the two oils with specified volumes. [...]
 
-
+The selected model for this case is a simple linear model. Respectively follow the proprieties of:
+  {\displaystyle y=\beta _{0}+\beta _{1}x+\varepsilon ,\,}
 
 2.Collect data from Crude Monitor for a couple of real crudes, and cleaning recent data, run the distillation
 profiles through your program with volumes of your choosing.
+
+we choosed to use a more complexe model to illustrate the non peferctly relationship between the two variables.
+Respectively the general polynomial model follows :
+ {\displaystyle y=\beta _{0}+\beta _{1}x+\beta _{2}x^{2}+\varepsilon .\,}
