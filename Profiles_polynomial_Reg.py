@@ -189,7 +189,7 @@ r2_score(y_true, y_pred) ##1 ?? a perfect model is questionable
 # In[ ]:
 
 
-*the(Polynomial, model, fit, our, data, better,, the, R**2, value, has, also, increased,, the, next, step, would, have, been, to, look)
+/*the(Polynomial, model, fit, our, data, better,, the, R**2, value, has, also, increased,, the, next, step, would, have, been, to, look)
 for the limitations of the model, by splitting my dataset two parts, testing and trainnig. 
 Train the model and test the model on the data to appreciate its accuracy.
 
